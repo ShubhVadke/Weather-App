@@ -1,0 +1,6 @@
+runtime: nodejs20
+
+env_variables:
+  MONGO_URI: "2df13ea7-d7b9-4191-9190-b8dd3ef3fa56"
+  GOOGLE_API_KEY: "AIzaSyDsrLlpR846hpodYBSJuY9Q-hM1WJ7THlU"
+  TOM_API_KEY: "0K5QJ8ccQ3UDhesZaCf9gkavVfTtzWfG"
